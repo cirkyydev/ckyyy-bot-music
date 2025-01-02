@@ -1,12 +1,12 @@
 {
-  "token": "MTE2OTgwMzgzNjM5NTg4MDQ5MQ.GBrYCX.ePNdzJjxVlOH_-_VP6UIm1LhbnUIs87iH_tG6s",
-  "prefix": "bobi",
-  "trackedUser": "805133072936599602",
-  "userToReact": "805133072936599602",
+  "token": "",
+  "prefix": "Cirky",
+  "trackedUser": "1309647292718120992",
+  "userToReact": "1309647292718120992",
   "emoji": "<:Heart:1314685412958277774>",
   "ownerid": [
-    "805133072936599602",
-    "1134265924812292166"
+    "1309647292718120992",
+    "1309647292718120992"
   ],
   "SpotifyID": "2db55a71d7804283874155616db8d2d8",
   "SpotifySecret": "d6edf7787b7c42f0abea2dcd6041f8bb",
@@ -29,7 +29,7 @@
     "722584544175194154": "<:Heart:1314685412958277774>"
   },
   "replyMessage": {
-    "detect": "<@805133072936599602>",
+    "detect": "<@>",
     "reply": "**𝘼𝙉𝙏𝙄𝙍𝘿𝙄 𝘿𝙒𝙄 𝙈3𝘼𝙃 𝘼𝙉𝘼 𝙉𝙆𝘼𝙇𝙈𝙊 𝙇𝙄𝙆**<a:MewLove:1314753000736165989>"
   }
 }
