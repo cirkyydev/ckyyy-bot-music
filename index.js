@@ -65,7 +65,7 @@ fs.readdirSync("./events/Client/").forEach(file => {
 fs.readdirSync("./events/Lavalink/").forEach(file => {
   const event = require(`./events/Lavalink/${file}`);
   let eventName = file.split(".")[0];
-  client.manager.on(eventName, event.bind(null, this));
+  client.manager.on(eventName, event.execute.bind(null, this));
 });
 process.on("unhandledRejection", (reason, promise) => {
   try {
