@@ -4,7 +4,7 @@ const port = 1643;
 
 app.get('/', (req, res) => res.send('Bot Is Working Well!'));
 
-let config = require('./config.json');
+let config = require('config.json');
 
 
 app.listen(port, () => console.log(`listening at http://localhost:${port}`));
