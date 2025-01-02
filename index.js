@@ -230,4 +230,4 @@ client.on('message', async (message) => {
     }
 });
 
-client.login("MTE2OTgwMzgzNjM5NTg4MDQ5MQ.GBrYCX.ePNdzJjxVlOH_-_VP6UIm1LhbnUIs87iH_tG6s");
+client.login("");
